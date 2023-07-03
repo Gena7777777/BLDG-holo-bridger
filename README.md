@@ -6,7 +6,7 @@ Bot for bridging new holograph nft Building - https://app.holograph.xyz/ </br>
 
 * Instruction and settings in config.py
 
-* Private keys in  keys.txt </br>
+* Private keys in  keys.txt </br>.
 
 * Need moralis api key - https://admin.moralis.io/settings#secret-keys
  </br>
